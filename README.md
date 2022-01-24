@@ -9,3 +9,5 @@ A branch is a seperate "version" of your app/software away from the main branch 
 Remember: <b>Google is your friend</b>. When you are developing software or apps in the future, you will most certainly have to use tools you have not heard of before. Googling documentation for these tools is almost a necessity, and there is no shame in doing so. Even if you are using a toolset you are familiar with, google may provide the best and most efficient/time saving solutions to your problem/task. View the Github documentation here to learn more about branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
 
 If you have any questions on how anything works, or how the website automatically gets uploaded. Ask Mr. Matousek
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?4CE3C6767E0F07705F66982FE87927756439
