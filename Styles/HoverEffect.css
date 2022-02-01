@@ -1,0 +1,5 @@
+.mouseHover{
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: green;
+}

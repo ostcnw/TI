@@ -39,7 +39,7 @@ body {
     background-image: url('/img/Banner1.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100%;
     background: white;
     margin: 0;
     padding: 0;
@@ -78,6 +78,8 @@ body {
     margin-top: 300;
     width: 50%;
   }
+
+
 
 /* ===== Scrollbar CSS ===== */
   /* Firefox */
